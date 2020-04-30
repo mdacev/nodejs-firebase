@@ -2,7 +2,7 @@ $env:GOOGLE_APPLICATION_CREDENTIALS="C:\nodejs-firebase\nodejs-firebase-191e1-fi
 
 # Nodejs/Express Firebase Example
 
-![](./docs/screenshot.png)
+![](./docs/screenshot.png) 
 
 # Resources
 - https://firebase.google.com/docs/admin/setup
